@@ -9,4 +9,4 @@ Available algorithms
 4.) Quick sort
 5.) Heap sort
 
-You can read more about sorting algorthms [here] (https://www.geeksforgeeks.org/sorting-algorithms/) !
+You can read more about sorting algorthms here -> (https://www.geeksforgeeks.org/sorting-algorithms/) !
